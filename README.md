@@ -9,12 +9,13 @@ The following map is using for this problem
 
 # Simulate Annealing 
 
-![Simulated Annealing](screenshots/simulated_anneling_solution.PNG)
-![Simulated Annealing](screenshots/simulated_annealing_solution.PNG)
+![Simulated Annealing](screenshots/simulated_anneling_solution01.PNG)
+![Simulated Annealing](screenshots/simulated_annealing_solution01.PNG)
 
 # Genetic Algorithm
 
 ![Genetic](screenshots/genetic_solution.PNG)
+![Genetic](screenshots/genetic_solution01.PNG)
 ![Genetic](screenshots/genetic_solution09.PNG)
 
 <h2 align="center">Thank You </h2>
