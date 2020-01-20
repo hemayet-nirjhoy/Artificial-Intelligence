@@ -9,8 +9,8 @@ The following map is using for this problem
 
 # Simulate Annealing 
 
-![Simulated Annealing](screenshots/simulated_anneling_solution01.PNG)
-![Simulated Annealing](screenshots/simulated_annealing_solution01.PNG)
+![Simulated Annealing](screenshots/simulated_annealing01.PNG)
+![Simulated Annealing](screenshots/simulated_annealing02.PNG)
 
 # Genetic Algorithm
 
