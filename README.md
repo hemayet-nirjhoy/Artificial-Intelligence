@@ -1,4 +1,5 @@
-## Map-coloring by Artificial Intelligence
+<h1 align="center">Map-coloring by Artificial Intelligence</h1>
+
 Map coloring problem is a NP hard problem. This problem is solved by local search algorithm. This algorithms are part of Artificial Intelligennce. 
 
 # Hillclimbing-in-java
