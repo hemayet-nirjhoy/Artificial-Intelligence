@@ -1,4 +1,7 @@
-# Map-coloring-using-Hillclimbing-in-java
+## Map-coloring by Artificial Intelligence
+Map coloring problem is a NP hard problem. This problem is solved by local search algorithm. This algorithms are part of Artificial Intelligennce. 
+
+#Hillclimbing-in-java
 The following map is using for this problem
 ![Sample Map](Map.JPG)
 
